@@ -2,10 +2,10 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="lg:container lg:mx-auto py-12">
-      <div className="banner_content text-center p-6 lg:p-12 bg-gray-50">
+    <div className="container mx-auto py-12">
+      <div className="banner_content p-6 lg:p-12 bg-gray-50">
         <div className="banner_title m-6 lg:m-12">
-          <h1 className="text-slate-900 text-5xl font-bold mb-2">
+          <h1 className="text-slate-900 text-7xl font-light mb-2">
             A warm welcome!
           </h1>
           <p className="text-2xl mb-4">

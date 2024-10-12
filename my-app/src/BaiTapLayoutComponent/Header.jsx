@@ -3,11 +3,11 @@ import React from "react";
 const Header = () => {
   return (
     <div className="bg-slate-950 text-white py-4">
-      <div className="lg:container lg:mx-auto">
+      <div className="container mx-auto">
         <div className="header_content flex justify-between">
-          <div className="logo text-2xl">Start Bootstrap</div>
+          <div className="logo text-xl">Start Bootstrap</div>
           <nav>
-            <ul className="flex justify-start list-none text-gray-600">
+            <ul className="flex justify-start text-sm list-none text-gray-600">
               <li className="mx-3 text-white">
                 <a href="#">Home</a>
               </li>
